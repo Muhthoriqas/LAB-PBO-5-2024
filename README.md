@@ -110,3 +110,4 @@
    telah anda **push** sesuai dan berada pada repo tersebut.
    
 10. Pilih menu **Pull request** dan lakukan **pull request** pada tugas praktikum anda.
+11. Berdoa Mko Di ACC, Klau ada kue-nya auto ACC
