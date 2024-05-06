@@ -16,7 +16,7 @@ import java.util.Scanner;
         }
 }*/
 
-public class Tugas1d {
+public class Tp4 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
