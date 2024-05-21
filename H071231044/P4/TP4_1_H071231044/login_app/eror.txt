@@ -1,0 +1,2 @@
+> Umur ndak boleh selain angka
+> Pas login masukin password salah, program jalan terus
