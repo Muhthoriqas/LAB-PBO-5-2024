@@ -1,4 +1,0 @@
-
-interface Move {
-    void move();
-}
