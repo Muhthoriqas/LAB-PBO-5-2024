@@ -1,0 +1,22 @@
+.back-button{
+    -fx-pref-width : 120px;
+    -fx-pref-height : 30px;
+    -fx-text-fill : white;
+    -fx-background-color : #047c00;
+}
+.background{
+    -fx-background-color : rgb(17, 17, 17);
+}
+
+.data{
+    -fx-background-color : rgba(0, 0, 0, 0.250);
+}
+.profile{
+    -fx-background-color : rgba(0, 0, 0, 0.150);
+}
+.teks{
+    -fx-font-size : 30px;
+    -fx-text-fill: white;
+    -fx-font-family: Arial, sans-serif;
+    -fx-text-alignment : left;
+}

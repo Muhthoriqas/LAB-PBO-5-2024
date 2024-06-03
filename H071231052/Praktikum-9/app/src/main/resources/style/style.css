@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.login{
+    -fx-font-size : 50px;
+    -fx-text-fill: white;
+    /* -fx-font-family: Arial, sans-serif; */
+    -fx-font-family : 'Bebas Neue',sans-serif;
+    -fx-font-weight : bold;
+}
+.username{
+    -fx-border-radius : 4px;
+    -fx-border-color : rgba(255, 255, 255, 0.144);
+    -fx-font-family : 'Poppins'; 
+    -fx-font-size : 15px;
+    -fx-text-fill: rgb(187, 184, 184);
+    -fx-background-color: rgba(253, 253, 253, 0.096);
+    -fx-padding : 15px;
+}
+.password{
+    -fx-background-color: rgba(253, 253, 253, 0.096);
+    -fx-border-color : rgba(255, 255, 255, 0.144);
+    -fx-border-radius : 4px;
+    -fx-backgorund-opacity : 20%;
+    -fx-font-size : 15px;
+    -fx-font-family : "Poppins", sans-serif;; 
+    -fx-text-fill: rgb(168, 168, 168);
+    -fx-padding : 15px;
+}
+.masuk{
+    -fx-text-size : 30px;
+    -fx-font-weight : bold;
+    -fx-font-family :'Poppins';
+    -fx-text-fill : white;
+    -fx-pref-height : 40px;
+    -fx-pref-width : 380px;
+    -fx-background-color: #047c00;
+    -fx-font-size: 10px; 
+}
+.new{
+    -fx-font-size : 20px;
+    -fx-font-weight : bold;
+    -fx-font-family :'Poppins';
+    -fx-text-fill : #000000;
+    -fx-pref-height : 40px;
+    -fx-pref-width : 380px;
+    -fx-background-color: #ffff;
+    -fx-font-size: 10px; 
+}
+.or{
+    -fx-text-fill : rgb(201, 201, 201);
+}
