@@ -1,0 +1,46 @@
+.label-pertama{
+    -fx-text-fill: black;
+    -fx-font-family: "System";
+    -fx-font-weight: bold;
+    -fx-font-size: 30px;
+
+}
+
+.label-permintaan{
+    -fx-font-family: "Nunito";
+    -fx-text-fill: rgb(0, 0, 0);
+    -fx-font-size:15px;
+    -fx-font-weight: bold;
+}
+
+.label-hasil {
+    -fx-font-family: "Nunito";
+    -fx-text-fill: rgb(0,0,0);
+    -fx-background-radius: 50px ; 
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+}
+
+.home {
+    -fx-font-family: "Nunito";
+    -fx-background-color :#A6A6A6;
+    -fx-text-fill: rgb(0,0,0);
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-background-radius: 25px ;
+}
+
+.tabel{
+    -fx-pref-width: 350px;
+    -fx-pref-height: 30px;
+    -fx-font-family: "Nunito";
+    -fx-background-color: #A6A6A6;
+    -fx-background-radius: 7px ;
+}
+
+/* .latar {
+    -fx-background-color : #20CD8D;
+    -fx-display : flex;
+    -fx-flex-direction : column;
+    -fx-position: absolute;
+} */
