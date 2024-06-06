@@ -1,0 +1,50 @@
+.registext-style {
+          -fx-font-size: 15px;
+          -fx-fill: white;
+          -fx-font-weight: bold;
+          -fx-font-family: 'Serif';
+      }
+      
+      .hometext-style {
+          -fx-font-size: 30px; 
+          -fx-fill: white; 
+          -fx-font-weight: bold; 
+          -fx-font-family: 'Serif'; 
+      }
+      
+      .button-style {
+          -fx-background-color: white; 
+          -fx-text-fill: #FFD1DC; 
+          -fx-font-weight: bold; 
+          -fx-border-radius: 5px;  
+          -fx-background-radius: 5px;
+      }
+      
+      .label-style {
+          -fx-font-size: 15px; 
+          -fx-text-fill: white; 
+          -fx-font-weight: bold; 
+          -fx-font-family: 'Serif'; 
+      }
+      
+      .textfield-style {
+          -fx-font-size: 15px; 
+          -fx-text-fill: #de3c62; 
+          -fx-font-weight: bold; 
+          -fx-font-family: 'Serif'; 
+          -fx-background-color: white;
+      }
+      
+      .profiletext-style {
+          -fx-font-size: 40px; 
+          -fx-fill: white; 
+          -fx-font-weight: bold; 
+          -fx-font-family: 'Serif'; 
+      }
+      
+      .text-style {
+          -fx-font-size: 20px; 
+          -fx-fill: white; 
+          -fx-font-weight: bold; 
+          -fx-font-family: 'Serif'; 
+      }
