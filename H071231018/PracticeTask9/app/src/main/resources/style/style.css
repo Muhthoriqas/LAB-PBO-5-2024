@@ -1,0 +1,20 @@
+.main-layout{
+    -fx-background-color: #ffb4b4;
+}
+
+.home {
+    -fx-font-family: "Times New Roman";
+    -fx-background-color : #FFFFFF;
+    -fx-text-fill: #FFB4B4;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-background-radius: 25px ;
+}
+.homie {
+    -fx-font-family: "Times New Roman";
+    -fx-background-color : #FFFFFF;
+    -fx-text-fill: #B2A4FF;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-background-radius: 25px ;
+}
